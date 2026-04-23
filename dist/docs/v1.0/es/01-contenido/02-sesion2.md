@@ -5,6 +5,7 @@ icon: mdi:numeric-2-box-outline
 order: 2
 ---
 
+
 ## Sesión 2: Funciones y Estructuras de Datos
 
 En esta sesión pasaremos de piezas sueltas de código a construir "máquinas" reutilizables. Aprenderemos a organizar nuestra lógica y a manejar grupos de datos de forma eficiente.
